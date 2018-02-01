@@ -103,13 +103,13 @@ def main():
     receipt = Receipt(config, text.readlines())
 
     #Prints the result - to modify in order to get an array of results
-    print("Name:     "+str(receipt.total))
-    print("Date:     "+str(receipt.total))
-    print("Location: "+str(receipt.total))
+    print("Name:     "+str(receipt.name))
+    print("Date:     "+str(receipt.date))
+    print("Location: "+str(receipt.location))
     print("Total:    "+str(receipt.total))
-    print("Tax:      "+str(receipt.total))
-    print("Currency: "+str(receipt.total))
-    print("Type:     "+str(receipt.total))
+    print("Tax:      "+str(receipt.tax))
+    print("Currency: "+str(receipt.currency))
+    print("Type:     "+str(receipt.type))
 
 
 if __name__ == "__main__":
