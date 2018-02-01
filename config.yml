@@ -1,0 +1,10 @@
+---
+# Total keys (tried to order by likelyhood)
+total_keys:
+  - total
+  - tot
+  - tot.
+  - somme
+
+# Matches dates like 19.08.15 and 19. 08. 2015
+date_format: '.*?(?P<date>(\d{2,4}(\.\s?|[^a-zA-Z\d])\d{2}(\.\s?|[^a-zA-Z\d])(20)?1[3-6]))\s+'

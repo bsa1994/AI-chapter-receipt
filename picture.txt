@@ -1,0 +1,23 @@
+zinc
+zinc zinc
+10 place de la joliette
+13002 marseille
+acs 812 238 467
+caisse3 # : 5680 restaurant zzh
+jeu.13jui1.17 13:51
+patrick
+table 218 cv
+1 repas
+tot euro
+31. o0
+tva
+1.90
+1.68
+ot 31.00 27.42 3.58
+tva%
+otal
+10% 20.93 19.03
+20% 10.07 . 8.39
+ht
+merci de votre visite
+a bientot
