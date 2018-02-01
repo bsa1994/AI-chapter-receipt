@@ -4,7 +4,7 @@
 from googleapiclient.discovery import build
 import base64
 
-APIKEY = "AIzaSyCmzfVk2AsSHEWmt7N5hSmKEvJzg3kpKF8"
+APIKEY = "" #FILL API KEY HERE
 
 def launch():
 
