@@ -7,7 +7,7 @@ import time
 from collections import defaultdict
 from difflib import get_close_matches
 import yaml
-import vision #to improve
+import vision
 from objectview import ObjectView
 
 THIS_FOLDER = os.getcwd()
